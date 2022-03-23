@@ -8,3 +8,5 @@ Deployed live URL:
 https://samanthalord22.github.io/Password-Generator-Wk2/
 
 Screenshot of live web page:
+
+ScreenShot.png
